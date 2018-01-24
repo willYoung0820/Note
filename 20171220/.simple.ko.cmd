@@ -1,0 +1,1 @@
+cmd_/home/lit/drivers/20171220/simple.ko := ld -r -m elf_x86_64 -T ./scripts/module-common.lds --build-id  -o /home/lit/drivers/20171220/simple.ko /home/lit/drivers/20171220/simple.o /home/lit/drivers/20171220/simple.mod.o ;  true

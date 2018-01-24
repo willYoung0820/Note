@@ -1,0 +1,1 @@
+cmd_/home/lit/drivers/20171221/time.ko := ld -r -m elf_x86_64 -T ./scripts/module-common.lds --build-id  -o /home/lit/drivers/20171221/time.ko /home/lit/drivers/20171221/time.o /home/lit/drivers/20171221/time.mod.o ;  true

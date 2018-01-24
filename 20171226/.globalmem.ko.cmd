@@ -1,0 +1,1 @@
+cmd_/home/lit/drivers/20171226/globalmem.ko := ld -r -m elf_x86_64 -T ./scripts/module-common.lds --build-id  -o /home/lit/drivers/20171226/globalmem.ko /home/lit/drivers/20171226/globalmem.o /home/lit/drivers/20171226/globalmem.mod.o
